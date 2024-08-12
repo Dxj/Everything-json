@@ -8,13 +8,13 @@
 5、点击Search按钮，等待右侧显示搜索出来的表格<br>
 本软件已申请软件著作权和专利证书，仅软件用于个人使用，其中的创意和思想不可私自使用，版权所有，侵权必究！<br>
 例如：
-{
-  name: "fonts",
-  date_created: ["2024/1/1", "2024/12/31"],
-  children: [
-    {
-      __target: true,
-      name: "微软雅黑"
-    }
-  ]
+{<br>
+  name: "fonts",<br>
+  date_created: ["2024/1/1", "2024/12/31"],<br>
+  children: [<br>
+    {<br>
+      __target: true,<br>
+      name: "微软雅黑"<br>
+    }<br>
+  ]<br>
 }
